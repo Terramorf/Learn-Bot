@@ -5,5 +5,4 @@ settings.py
 env/
 .DS_Store
 __pycache__/
-problems.txt
-
+problems.txt 
